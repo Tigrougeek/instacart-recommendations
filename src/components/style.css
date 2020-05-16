@@ -1,0 +1,42 @@
+#mapId {
+  height: 200px;
+}
+
+.MuiToolbar-regular {
+  background: #660066 !important;
+}
+
+.MuiFormLabel-root {
+  color: white !important;
+  border-color: white !important;
+}
+
+.MuiAutocomplete-inputRoot[class*="MuiOutlinedInput-root"] {
+  padding: 0 !important;
+}
+
+MuiFormLabel-root {
+  margin-top: 0 !important;
+}
+
+.MuiCardContent-root {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.MuiCardHeader-root, .MuiCardActions-root, .MuiIconButton-root {
+  padding: 0 !important;
+}
+
+.MuiListItemText-root {
+ margin: 0 !important;
+}
+
+.MuiCard-root {
+  width: 200px;
+  height: 180px;
+}
+
+* {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
