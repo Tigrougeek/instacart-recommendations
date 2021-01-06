@@ -31,7 +31,7 @@
     "@types/react-leaflet": "^2.5.1",
     "ag-grid-community": "^23.0.2",
     "ag-grid-react": "^23.0.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "contentful": "^7.14.3",
     "echarts": "^4.7.0",
     "echarts-for-react": "^2.0.15-beta.1",
